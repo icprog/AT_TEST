@@ -1,0 +1,15 @@
+d:\Documents\Visual Studio 2017\Projects\AT_TEST\AT_TEST\bin\Release\AT_TEST.exe.config
+d:\Documents\Visual Studio 2017\Projects\AT_TEST\AT_TEST\bin\Release\AT_TEST.exe
+d:\Documents\Visual Studio 2017\Projects\AT_TEST\AT_TEST\bin\Release\AT_TEST.pdb
+d:\Documents\Visual Studio 2017\Projects\AT_TEST\AT_TEST\bin\Release\LibZ.Bootstrap.dll
+d:\Documents\Visual Studio 2017\Projects\AT_TEST\AT_TEST\obj\Release\MainWindow.g.cs
+d:\Documents\Visual Studio 2017\Projects\AT_TEST\AT_TEST\obj\Release\App.g.cs
+d:\Documents\Visual Studio 2017\Projects\AT_TEST\AT_TEST\obj\Release\AT_TEST_MarkupCompile.cache
+d:\Documents\Visual Studio 2017\Projects\AT_TEST\AT_TEST\obj\Release\AT_TEST_MarkupCompile.lref
+d:\Documents\Visual Studio 2017\Projects\AT_TEST\AT_TEST\obj\Release\MainWindow.baml
+d:\Documents\Visual Studio 2017\Projects\AT_TEST\AT_TEST\obj\Release\AT_TEST.g.resources
+d:\Documents\Visual Studio 2017\Projects\AT_TEST\AT_TEST\obj\Release\AT_TEST.Properties.Resources.resources
+d:\Documents\Visual Studio 2017\Projects\AT_TEST\AT_TEST\obj\Release\AT_TEST.csproj.GenerateResource.Cache
+d:\Documents\Visual Studio 2017\Projects\AT_TEST\AT_TEST\obj\Release\AT_TEST.exe
+d:\Documents\Visual Studio 2017\Projects\AT_TEST\AT_TEST\obj\Release\AT_TEST.pdb
+d:\Documents\Visual Studio 2017\Projects\AT_TEST\AT_TEST\obj\Release\AT_TEST.csprojResolveAssemblyReference.cache
